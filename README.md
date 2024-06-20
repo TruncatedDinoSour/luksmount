@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/luksmount>
 # Luksmount
 
 > A simple and safe wrapper around cryptsetup written in bash
